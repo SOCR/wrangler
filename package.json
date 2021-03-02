@@ -1,6 +1,6 @@
 {
   "name": "data-wrangler",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Wrangler is an interactive tool for data cleaning and transformation",
   "main": "dw.js",
   "directories": {
